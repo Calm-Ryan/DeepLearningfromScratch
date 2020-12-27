@@ -1,0 +1,2 @@
+# DeepLearningfromScratch
+PythonとJuliaでゼロから作るDeep Learningの実装
